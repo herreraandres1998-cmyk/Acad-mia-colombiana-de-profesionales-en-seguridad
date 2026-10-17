@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33613600/README.md)
 # Academia Colombiana de Profesionales en Seguridad
 
 Sitio web estático preparado para publicarse en GitHub Pages.
